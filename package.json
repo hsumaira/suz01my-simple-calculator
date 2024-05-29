@@ -1,0 +1,21 @@
+{
+  "name": "suz01my-simple-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+   "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumaira Haider",
+  "license": "MIT",
+  "keywords": [],
+  "description": "Simple calculater using typescript, node.js and inquirer",
+  "dependencies": {
+    "inquirer": "^9.2.22",
+    "js-base64": "^3.7.7"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
